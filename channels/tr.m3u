@@ -153,6 +153,8 @@ http://tjktv.ercdn.net/tjktv.m3u8
 https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist.sltur.m3u8
 #EXTINF:-1 tvg-id="TLC TR" tvg-name="TLC TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/rp1rtsC/Mp1BWwp.png" group-title="",TLC
 https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/HTzkq9P/iJIHMq9.png" group-title="News",TRT 1 HD
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/HTzkq9P/iJIHMq9.png" group-title="News",TRT Arabi
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/56kyxmQ/05zMtgQ.png" group-title="",TRT Avaz
